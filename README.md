@@ -33,11 +33,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 **Images**
 LEGO Sets Over Time
-![Sets](images/Graph1.png)
+![Sets](Images/Graph1.png)
 Price vs Pieces
-![Price](images/Graph2.png)
+![Price](Images/Graph2.png)
 Top Themes
-![Themes](images/Graph3.png)
+![Themes](Images/Graph3.png)
 
 **Key Insights**
 - LEGO production has increased significantly after 2000

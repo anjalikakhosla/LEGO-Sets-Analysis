@@ -33,7 +33,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 **Images**
 LEGO Sets Over Time
-![Sets](Images/Graph1.png)
+![](Images/Graph1.png)
 Price vs Pieces
 ![Price](Images/Graph2.png)
 Top Themes

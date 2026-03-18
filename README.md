@@ -26,7 +26,24 @@ Source: Maven Analytics LEGO Dataset
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 **Machine Learning**
-Built Linear Regression model to predict LEGO prices
+- Model: Linear Regression
+- Features: Pieces, Minifigs
+- Target: Price
+- Result: Model shows strong dependency of price on complexity
+
+**Images**
+LEGO Sets Over Time
+![Sets](images/Graph1.png)
+Price vs Pieces
+![Price](images/Graph2.png)
+Top Themes
+![Themes](images/Graph3.png)
+
+**Key Insights**
+- LEGO production has increased significantly after 2000
+- Strong positive relationship between price and number of pieces
+- Certain themes dominate across decades
+- Licensed sets tend to include more minifigures
 
 ** Conclusion**
 LEGO sets have become more complex and expensive over time

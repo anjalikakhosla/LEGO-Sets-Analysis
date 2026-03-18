@@ -22,7 +22,7 @@ Predict LEGO set prices using machine learning
 **Dataset**
 Source: Maven Analytics LEGO Dataset
 
-**🧰 Technologies Used**
+** Technologies Used**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 **Machine Learning**

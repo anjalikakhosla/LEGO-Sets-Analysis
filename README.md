@@ -1,6 +1,7 @@
 # LEGO-Sets-Analysis
 
 **Problem Statement**
+
 LEGO has evolved significantly over the years in terms of design complexity, pricing, and themes. However, there is limited understanding of how these factors have changed over time and what drives the pricing and popularity of LEGO sets.
 This project aims to analyze LEGO datasets to uncover trends in production, complexity, and pricing, identify the most popular themes across decades, and explore the relationship between set features (such as number of pieces and minifigures) and their prices.
 
